@@ -2,7 +2,7 @@
   "name": "files_manager",
   "version": "1.0.0",
   "description": "A simple file management API built with Node.js.",
-  "author": "Bezaleel Olakunori <bezaleeloci@gmail.com>",
+  "author": "Prof. Percival <percival.mrd921@yahoo.com>",
   "license": "MIT",
   "private": true,
   "main": "server.js",
